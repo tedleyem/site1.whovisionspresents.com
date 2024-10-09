@@ -290,6 +290,15 @@ a:focus {
   width: 105px;
 }
 
+.page-image {
+  object-position: center;
+
+}
+
+.display-image {
+  border-radius: 50%;
+}
+
 .custom_nav-container .nav_search-btn {
   background-image: url(../images/search-icon.png);
   background-size: 18px;
@@ -1091,4 +1100,5 @@ a:focus {
   color: #fff;
   opacity: 1;
 }
+
 /*# sourceMappingURL=style.css.map */
